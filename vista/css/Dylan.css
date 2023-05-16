@@ -1,0 +1,35 @@
+.colornav{
+    background-color: #119211 !important; 
+}
+
+
+.div_nosotros{
+    background-color: white !important;
+}
+
+
+.bordesform{
+    background-color: white;
+    border: 2px solid black;
+    padding: 25px;
+    margin-top: 25px;
+    border-radius: 7px;
+}
+.cuerpo{
+	margin-top: 20px;
+    background-color: rgb(153, 0, 0);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:center center ;
+}
+.style_table{
+    margin-top: 25px;
+    background-color: white;
+}
+.borde{
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+table{
+    border-radius: 5px;
+}
